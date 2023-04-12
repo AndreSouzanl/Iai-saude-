@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cuidados{
+    width: 1024px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 0 auto;
+    margin-top: 35px;
+    margin-top: 35px;
+}
+
+.cuidos-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.cuidos-container figure img{
+    width:250px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.cuidos-container figcaption{
+    text-align: justify;
+    padding: 15px;
+    line-height: 35px;
+    font-size: 16px;
+    color: #000;
+}
+
+.item{
+    border: 1px solid #00CED1;
+    width: 100%;
+    margin:5px;
+}
+
+.item h3{
+    text-align: center;
+    margin-top:20px;
+    text-transform: uppercase;
+    background-color: #00CED1;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.link{
+    background-color: #00CED1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-left:50px;
+    margin-right: 50px;
+    color:#fff;
+    text-decoration: none;
+    font-size:1.3rem;
+    text-transform: uppercase;
+    border-radius: 7px;
+    
+}  
+    
